@@ -14,6 +14,11 @@
 
 Join me on this journey as I combine my legal background with a tech-driven approach, contributing to innovative projects at the intersection of law and technology.
 
+### My CS50 Certificate
+
+![CS50 Certificate](https://github.com/yourusername/yourrepository/blob/main/path/to/your/certificate.png)
+
+
 ### Content & Connections
 
 [![Blog](https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white)](https://www.dbgsequeira.substack.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sequeira-916159196/) 
