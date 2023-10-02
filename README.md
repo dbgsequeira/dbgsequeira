@@ -16,7 +16,7 @@ Join me on this journey as I combine my legal background with a tech-driven appr
 
 ### My CS50 Certificate
 
-![CS50 Certificate](https://certificates.cs50.io/ee2b4734-9b3e-4284-99c7-0f7731a8b47b.pdf?size=letter f)
+[![CS50 Certificate](https://certificates.cs50.io/ee2b4734-9b3e-4284-99c7-0f7731a8b47b.pdf?size=letter f)
 
 
 ### Content & Connections
