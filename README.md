@@ -25,4 +25,4 @@ Join me on this journey as I combine my legal background with a tech-driven appr
 ### Home Base and On-the-Go Setups
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)] [![Arch Linux](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)]
 
-![dbgsequeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbgsequeira&show_icons=true&theme=onedark)
+![dbgsequeira's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbgsequeira&show_icons=true&theme=merko)
